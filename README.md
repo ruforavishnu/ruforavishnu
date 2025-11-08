@@ -2,7 +2,7 @@
 
 💻 **Programmer turned Entrepreneur | Startup Founder : Rufora Web Technologies**  
 ⚡ **15+ years** of industry experience.  
-🧭 Juggles time between managing **Rufora Web Technologies**, a SaaS startup in its pre-seed phase, and indulging in hobby coding purely for the sheer joy of programming.
+🧭 Juggles time between managing **Rufora Web Technologies**, a SaaS startup in its pre-seed phase, and indulging in hobby coding purely for the sheer joy of programming.  
 💎 Over the course of decades my favourite programming language evolved from **C → Java → Python**.  
 🔥 Currently **5+ years** of **Python programming** experience, **1.5 years** of **Machine Learning** experience, and **1 year** of **vibe-coding** experience with **ChatGPT**, **Claude**, and **Lovable**.
 
