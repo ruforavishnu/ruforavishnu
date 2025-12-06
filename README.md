@@ -1,9 +1,9 @@
 # 🌟 Vishnu Ajit (Rufora Vishnu)
 
 💻 **Programmer turned Entrepreneur | Startup Founder : Rufora Web Technologies**  
-⚡ **15+ years** of industry experience.  
+⚡ **10+ years** of industry experience.  
 🧭 Juggles time between managing **Rufora Web Technologies**, a SaaS startup in its pre-seed phase, and indulging in hobby coding purely for the sheer joy of programming.  
-💎 Over the course of decades my favourite programming language evolved from **C → Java → Python**.  
+💎 Over the course of time my favourite programming language evolved from **C → Java → Python**.  
 🔥 Currently **5+ years** of **Python programming** experience, **1.5 years** of **Machine Learning** experience, and **1 year** of **vibe-coding** experience with **ChatGPT**, **Claude**, and **Lovable**.
 
 ---
@@ -50,7 +50,7 @@
 
 ### 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishnuajit/)  
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ruforavishnu)
 
 ---
